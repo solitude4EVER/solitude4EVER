@@ -1,6 +1,6 @@
 <h3>How did you find me?</h3>
 <ul>
   <li>Yo this is solitude4EVER</li>
-  <li>Nothing is interesting about me</li>
-  <li>leave ᕕ( ᐛ )ᕗ</li>
+  <li>A noob programming hobbyist</li>
+  <li>If you're bored like me, try out my toy projects ᕕ( ᐛ )ᕗ</li>
 </ul>
